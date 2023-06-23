@@ -1,6 +1,6 @@
 ## Hi! :)
 
-I'm Myrrh Khan (he/him) and I'm currently a freshman CS student at Worcester Polytechnic Institute (WPI) in Massachusetts. I've been programming since the begining of my sophomore year of high school in 2019.
+I'm Myrrh Khan (he/him) and I'm currently a sophomore CS student at Worcester Polytechnic Institute (WPI) in Massachusetts. I've been programming since the begining of my sophomore year of high school in 2019.
 
 ### Summary:
  - Proficient in Java and Python. Experienced with robotics programming and machine learning (particularly Tensorflow). Also experienced with Racket.
