@@ -3,9 +3,8 @@
 I'm Myrrh Khan (he/him) and I'm currently a sophomore CS student at Worcester Polytechnic Institute (WPI) in Massachusetts. I've been programming since the begining of my sophomore year of high school in 2019.
 
 ### Summary:
- - Proficient in Java and Python. Experienced with robotics programming and machine learning (particularly Tensorflow). Also experienced with Racket.
- - Learning C/C++ through school, and my class will end in March.
- - Currently learning NodeJS, HTML, CSS, and TypeScript as a personal side project. I will be working on the project every Wednesday (though that depends on my school schedule).
+ - Proficient in Java Python, C/C++, and x86 Assembly. Experienced with robotics programming and machine learning (particularly Tensorflow). Also experienced with Racket.
+ - Currently creating a side project to learn HTML, CSS, TypeScript, the Svelte frontend framework, and the basics of Rust. Check out my repo [here](github.com/myrrhkhan/VarEdit).
 
 ### Bio:
 
@@ -16,11 +15,10 @@ I began my Python journey on my own by experimenting with code to graph COVID-19
 During my first term of college, I took an introductory class in a language known as Racket, which is a language with a lisp style of syntax. Though I initially went into the class confused as to how it be applicable in the real world, I found it to be extremely enlightening when learning about the concept of lambdas, recursion, and just functional programming in general, as the majority of my experience was in OOP.
 
 ### Here are some of my in-progress projects to look out for 👀:
- - I'll start uploading some code where I expand upon my homework assignments from the C/C++ class I'm currently taking. I aim to be proficient in C/C++ when the class ends in March.
- - I'm currently developing a concept redesign of the Worcester Regional Transit Authority (WRTA) website with my roommate. We'll be using PostgreSQL and GraphQL with Apollo, Express, and NodeJS for our backend, and we'll be using React with TypeScript (along with HTML/CSS) for our frontend. Though this is a personal project, it sprouted from a research project I did during my first semester of college where we investigated issues with the local bus system. *I'll be working on this project on Wednesdays, in case you want to check for updates :)*
- - I've been participating in the College Pathways program offered by the organization AI4All. I'll be starting part 2 of the program in February. You can view the part 1 project on GitHub.
+ - [VarEdit](github.com/myrrhkhan/VarEdit), a GUI to edit environment variables built with Tauri, an Electron alternative. My backend is in Rust and I'm using Svelte as my frontend.
  
-### Long-term goals:
+### Long-term projects:
  
- - I aim to improve on my ML programming by diving deeper into the concepts behind neural networks rather than just the code. One recent ML proejct I did was performing sentiment analysis on song lyrics using a pretrained model, and I will expand on that by training my own models to refresh my ML skills.
- - My repository has many abandoned projects from high school, and as time has went on, I've become much more proactive in keeping up with my projects. I hope to uncover the dust on a project that aims to connect announcements from Slack to Discord. I also hope to bring up a fairly simple C++ project for my old robotics team to use.
+ - I aim to improve on my ML programming by diving deeper into the concepts behind neural networks rather than just the code. One recent ML project I did was performing sentiment analysis on song lyrics using a pretrained model, and I will expand on that by training my own models to refresh my ML skills.
+ - My profile has many abandoned projects from high school, and as time has went on, I've become much more proactive in keeping up with my projects. I hope to uncover the dust on a project that aims to connect announcements from Slack to Discord. I also hope to bring up a fairly simple C++ project for my old robotics team to use.
+ - I will develop a concept redesign of the Worcester Regional Transit Authority (WRTA) website with my roommate. We'll be using PostgreSQL and GraphQL with Apollo, Express, and NodeJS for our backend, and we'll be using React with TypeScript (along with HTML/CSS) for our frontend. Though this is a personal project, it sprouted from a research project I did during my first semester of college where we investigated issues with the local bus system.
